@@ -1,6 +1,6 @@
 # -IIS-Log-Analysis
-可以直接使用，目前适用于iis
-小弟python一般，日志分析一般，编写脚本方便日志分析
+可以直接使用，目前适用于iis。
+小弟python一般，日志分析一般，编写脚本方便日志分析,之后会继续完善。
 
 
     For example: E:\test\
